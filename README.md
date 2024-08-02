@@ -1,2 +1,20 @@
 # Seismic-Data-Analysis
 Predicting seismic data from the world using data analysis techniques to turn useful information into meaningful insights and draw some conclusion regarding seismic nature of the earth.
+/seismic-data-analysis
+ /images
+   Seismic Data Analysis.jpg
+   Seismic Data Analysis (1).jpg
+   Seismic Data Analysis (2).jpg
+   Seismic Data Analysis (3).jpg
+   Seismic Data Analysis (4).jpg
+   Seismic Data Analysis (5).jpg
+   Seismic Data Analysis (6).jpg
+   Seismic Data Analysis (7).jpg
+   Seismic Data Analysis (8).jpg
+   Seismic Data Analysis (9).jpg
+   Seismic Data Analysis (10).jpg
+   Seismic Data Analysis (11).jpg
+   Seismic Data Analysis (12).jpg
+/pdf
+   Seismic Data Analysis.pdf
+README.md
